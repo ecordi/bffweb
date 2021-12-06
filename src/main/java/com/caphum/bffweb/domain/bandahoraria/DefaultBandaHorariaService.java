@@ -1,7 +1,5 @@
 package com.caphum.bffweb.domain.bandahoraria;
 
-import org.springframework.http.HttpStatus;
-import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 
 import java.io.IOException;

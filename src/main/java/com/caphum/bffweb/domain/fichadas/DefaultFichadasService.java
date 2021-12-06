@@ -1,8 +1,5 @@
 package com.caphum.bffweb.domain.fichadas;
 
-import net.bytebuddy.dynamic.DynamicType;
-import org.springframework.http.HttpStatus;
-import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 
 import java.io.IOException;
@@ -10,7 +7,6 @@ import java.net.URI;
 import java.net.http.HttpClient;
 import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
-import java.util.Optional;
 
 import static com.caphum.bffweb.BffwebApplication.URL_API;
 

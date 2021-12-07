@@ -32,7 +32,7 @@ public class SwaggerConfig extends WebMvcConfigurationSupport {
     private ApiInfo metaData() {
         ApiInfo apiInfo = new ApiInfo(
                 " BFF",
-                "Consume api externa",
+                "Consume servicios del Midd->EN CONSTRUCCION",
                 "1.0",
                 null,
                 new springfox.documentation.service.Contact("Galmes", "https://galmesdigital.com/", "info@hgalmesdigital.com"),
